@@ -1,0 +1,54 @@
+.audio_VolumePopin_2iUUM.audio_VolumePopinHidden_1OwmL {
+  transform: translateY(-50%);
+  opacity: 0;
+}
+
+.audio_VolumePopin_2iUUM,
+.audio_VolumePopin_2iUUM.audio_VolumePopinHidden_1OwmL {
+  width: 50px;
+  height: 180px;
+  top: 50%;
+  left: 25px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border-radius: 15px;
+  transform: translateY(-50%);
+  box-shadow: none;
+  padding: 0;
+  transition-property: opacity;
+  pointer-events: none;
+}
+
+.audio_VolumePopin_2iUUM.audio_VolumePopinHidden_1OwmL {
+  opacity: 0;
+}
+
+.audio_VolumeSliderPosition_1_hv3 {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+}
+
+.audio_VolumePopin_2iUUM .gamepaddialog_FieldChildrenWithIcon_2ZQ9w {
+  flex-direction: column;
+}
+
+.audio_VolumePopin_2iUUM .gamepaddialog_FieldIcon_1sC68 {
+  padding: 0;
+}
+
+.audio_VolumePopin_2iUUM .gamepaddialog_FieldIcon_1sC68 > svg {
+  color: #ffffff99;
+}
+
+.audio_VolumePopin_2iUUM .gamepadslider_SliderTrack_Mq25N {
+  background: #2323238e;
+  border-radius: 10px;
+  margin: 0;
+  width: 150px;
+  height: 30px;
+  transform: rotate(-90deg) translateX(-70px);
+  --left-track-color: #ffffff99;
+}

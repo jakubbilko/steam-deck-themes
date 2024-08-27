@@ -1,0 +1,43 @@
+{
+  "name": "VerticalVolumeSlider",
+  "description": "Vertical volume slider.",
+  "author": "jakubbilko",
+  "manifest_version": 9,
+  "target": "Tweak",
+  "version": "v1.0",
+  "inject": {
+    "shared.css": ["bigpicture"]
+  },
+  "patches": {
+    "Position": {
+      "type": "dropdown",
+      "values": {
+        "Center": {},
+        "Top": {
+          "top.css": ["bigpicture"]
+        },
+        "Bottom": {
+          "bottom.css": ["bigpicture"]
+        }
+      }
+    },
+    "Preview": {
+      "type": "checkbox",
+      "values": {
+        "No": {},
+        "Yes": {
+          "preview.css": ["bigpicture"]
+        }
+      }
+    },
+    "Icon": {
+      "type": "checkbox",
+      "values": {
+        "Yes": {},
+        "No": {
+          "noicon.css": ["bigpicture"]
+        }
+      }
+    }
+  }
+}

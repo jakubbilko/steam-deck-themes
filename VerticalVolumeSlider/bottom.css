@@ -1,0 +1,11 @@
+.audio_VolumePopin_2iUUM.audio_VolumePopinHidden_1OwmL {
+  transform: none;
+  opacity: 0;
+}
+
+.audio_VolumePopin_2iUUM,
+.audio_VolumePopin_2iUUM.audio_VolumePopinHidden_1OwmL {
+  top: auto;
+  bottom: 50px;
+  transform: none;
+}
