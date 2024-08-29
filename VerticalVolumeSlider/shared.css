@@ -1,10 +1,9 @@
-.audio_VolumePopin_2iUUM.audio_VolumePopinHidden_1OwmL {
+._2iUUMqGBsJmkgjGawC2D5V._1OwmL2oZOrScwfNuhNtZxQ {
   transform: translateY(-50%);
   opacity: 0;
 }
 
-.audio_VolumePopin_2iUUM,
-.audio_VolumePopin_2iUUM.audio_VolumePopinHidden_1OwmL {
+._2iUUMqGBsJmkgjGawC2D5V {
   width: 50px;
   height: 180px;
   top: 50%;
@@ -21,29 +20,25 @@
   pointer-events: none;
 }
 
-.audio_VolumePopin_2iUUM.audio_VolumePopinHidden_1OwmL {
-  opacity: 0;
-}
-
-.audio_VolumeSliderPosition_1_hv3 {
+._1_hv3uX4HIDYMmK-OVR71L {
   display: flex;
   flex-direction: column;
   padding: 0;
 }
 
-.audio_VolumePopin_2iUUM .gamepaddialog_FieldChildrenWithIcon_2ZQ9w {
+._2iUUMqGBsJmkgjGawC2D5V ._2ZQ9wHACVFqZcufK_WRGPM {
   flex-direction: column;
 }
 
-.audio_VolumePopin_2iUUM .gamepaddialog_FieldIcon_1sC68 {
+._2iUUMqGBsJmkgjGawC2D5V ._1sC68UJqI3ry5Gnk5cnH9U {
   padding: 0;
 }
 
-.audio_VolumePopin_2iUUM .gamepaddialog_FieldIcon_1sC68 > svg {
+._2iUUMqGBsJmkgjGawC2D5V ._1sC68UJqI3ry5Gnk5cnH9U > svg {
   color: #ffffff99;
 }
 
-.audio_VolumePopin_2iUUM .gamepadslider_SliderTrack_Mq25N {
+._2iUUMqGBsJmkgjGawC2D5V .Mq25Nap224hVdTdtXSsnq {
   background: #2323238e;
   border-radius: 10px;
   margin: 0;
@@ -51,4 +46,4 @@
   height: 30px;
   transform: rotate(-90deg) translateX(-70px);
   --left-track-color: #ffffff99;
-}
+} */
